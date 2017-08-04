@@ -1,5 +1,6 @@
 # Stop Light
 Everyone knows, green means go, red means stop, and yellow means go faster!
+![alt text](https://github.com/hello-world-tech-studios/project.stop-light/blob/master/assets/200.gif)
 
 ## Objective
 Create a stop light that illuminates green, yellow, or red when that respecitve button or color is clicked.
@@ -12,7 +13,7 @@ Create a stop light that illuminates green, yellow, or red when that respecitve 
 ## Optional:
 - jQuery
 
-## To-Do (Look at that! To-Do List right here!)
+## To-Do
 - Create the shell for the stop light.
 - Add buttons that when clicked changes illuminated light color. This means "shutting off" the previously lit color, and "turning on" the new one.
 - **Bonus**
@@ -29,6 +30,6 @@ Create a stop light that illuminates green, yellow, or red when that respecitve 
 - [A Guide to Centering in CSS](https://css-tricks.com/centering-css-complete-guide/)
 
 ## Example
-![alt text]
+![alt text](https://github.com/hello-world-tech-studios/project.stop-light/blob/master/assets/stoplight-example-gif.gif)
 
 Your stop light should look different from this one. Be creative, and use whatever colors, and styling you want. Maybe use different colors from the traditional stop light. Make a futuristic stop light, make a stop light you might see on an alien planet, or a stop light for fish. That's what so great about coding, the possibilities are nearly limitless!
