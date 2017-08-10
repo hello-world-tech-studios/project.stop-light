@@ -1,0 +1,32 @@
+#rectangle {
+  width:500px;
+  height:800px;
+  background-color: purple;
+}
+  #rectangle{
+      overflow: hidden;
+      /*make sure the wrapper has no dimension*/
+      margin-bottom: 10px;
+      margin-left: 35%;
+      margin-right: 35%;
+}
+
+#circle {
+  width: 250px;
+  height: 250px;
+  background-color:grey;
+  x;-moz-border-radius: 200px;
+	-webkit-border-radius: 200px;
+	border-radius: 50px;
+  position: absolute;
+  margin-left: 40%;
+}
+#circle{
+    /*overflow: hidden;
+    /*make sure the wrapper has no dimension*/
+    /*margin-bottom: 60px;
+    margin-left: 40%;
+    margin-right: 37%;
+    margin-bottom: 300px;*/
+
+}
