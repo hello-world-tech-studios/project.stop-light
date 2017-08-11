@@ -1,6 +1,6 @@
 #rectangle {
   width:500px;
-  height:800px;
+  height:1100px;
   background-color: purple;
 }
   #rectangle{
@@ -19,14 +19,99 @@
 	-webkit-border-radius: 200px;
 	border-radius: 50px;
   position: absolute;
-  margin-left: 40%;
+  margin-left: 15%;
+  margin-top: 10px;
 }
-#circle{
-    /*overflow: hidden;
-    /*make sure the wrapper has no dimension*/
-    /*margin-bottom: 60px;
-    margin-left: 40%;
-    margin-right: 37%;
-    margin-bottom: 300px;*/
 
+#circle:hover {
+  background-image: url("http://cdn.earthporm.com/wp-content/uploads/2015/10/XX-Proud-Mommies5__605.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+#circle2:hover {
+  background-image: url("https://i.ytimg.com/vi/p4Jj9QZFJvw/hqdefault.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+#circle3:hover {
+  background-image: url("https://media.mnn.com/assets/images/2017/02/Blobfish-slime-carpet-surface.jpg.696x0_q80_crop-smart.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+
+#circle2 {
+  width: 250px;
+  height: 250px;
+  background-color:grey;
+  x;-moz-border-radius: 200px;
+	-webkit-border-radius: 200px;
+	border-radius: 50px;
+  position: absolute;
+  margin-left: 19%;
+  margin-top: 350px;
+}
+#circle3 {
+  width: 250px;
+  height: 250px;
+  background-color:grey;
+  x;-moz-border-radius: 200px;
+	-webkit-border-radius: 200px;
+	border-radius: 50px;
+  position: absolute;
+  margin-left: 10%;
+  margin-top: 700px;
+}
+#green{
+  background-color: aqua;
+  margin-right: 200px
+  margin-top: 20px;
+}
+#yellow{
+  background-color: pink;
+  margin-right:5000px;
+}
+#red{
+  background-color: orange;
+}
+body {
+  background-image: url("https://media.giphy.com/media/zhUOF7Xx0QAAU/giphy.gif");
+  background-repeat: no repeat;
+  background-size: cover;
+}
+
+#rectangle:hover{
+  transform:skew(360deg);
+  transition:10s;
+}
+#rectangle:hover{
+  background-image:url("https://media.giphy.com/media/vynaQurBC5QIM/200.gif");
+  background-repeat:repeat;
+  background-size:contain;
+}
+#green:hover{
+  background-color: green;
+}
+#yellow:hover{
+  background-color: yellow;
+}
+#red:hover{
+  background-color: red;
+}
+#circle:hover{
+  transform:skewx(360deg);
+  transition: 10s;
+}
+#circle2:hover{
+  transform:skewy(360deg);
+  transition: 10s;
+}
+#circle3:hover{
+  transform:skew(360deg);
+  transition: 10s;
+}
+
+h1{
+  text-align: center;
+  color: #8A2BE2;
 }
